@@ -1,0 +1,12 @@
+pkgbase = ditana-print-system-load
+	pkgdesc = Ditana system load printer used in XFCE panel
+	pkgver = 1.09
+	pkgrel = 1
+	url = https://ditana.org
+	arch = any
+	license = AGPL-3.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND BSD-4-Clause-UC AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-3.0-or-later AND ISC LGPL-2.1-or-later AND LicenseRef-PublicDomain
+	depends = util-linux
+	source = file:///media/stefan/data/Documents/git/my-projects/acrion/ditana/packages/001-ditana-print-system-load/print-system-load.sh
+	sha256sums = SKIP
+
+pkgname = ditana-print-system-load
